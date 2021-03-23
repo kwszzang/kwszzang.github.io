@@ -34,26 +34,26 @@ typewrite-text: Hello ! I'm growing developer, WS
 
 # 교육 내용
 author_work_experiences:
-            - company_name: 비트캠프
-              company_logo: bit.png
+            - company_name: 디지털 컨버전스 기반 UI/UX Front 전문 개발자 양성 과정
+              company_logo: bitcamp.png
               company_url: https://www.bitcamp.co.kr/
-              designation: 디지털 컨버전스 기반 UI/UX Front 전문 개발자 양성 과정
+              designation: 비트캠프
               description: 2021.03수료
               visibility: true
-            - company_name: 한국방송통신대학
+            - company_name: 컴퓨터 과학과
               company_logo: university.png
               company_url: https://www.knou.ac.kr/knou/index.do?epTicket=LOG
-              designation: 컴퓨터 과학과
+              designation: 한국방송통신대학
               description: 재학중
               visibility: true
 
 # 진행중인 프로젝트
 author_education_details:
-              - college_logo: bit.png
-                college_name: 진행 중인 프로젝트
+              - college_logo: bitcamp.png
+                college_name: Spring 전자 정부 프레임 & 동적 웹페이지 구현 
                 college_url: https://github.com/kwszzang/MySpringProject
-                college_degree: 앨범/노래를 공유 할 수 있는 커뮤니티 사이트
-                description: 
+                college_degree: 앨범,노래들의 정보를 확인하고, 게시판을 통해 다른 사용자와 소통하는 커뮤니티 사이트
+                description: 개인 프로젝트 진행 중
                 visibility: true
              
 

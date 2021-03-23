@@ -24,7 +24,7 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: 김원식 증명사진.JPG
 author: 김원식
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "kwsic@naver.com"

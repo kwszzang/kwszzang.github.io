@@ -26,11 +26,11 @@ urls:
 
 author_logo: 김원식 증명사진.JPG
 author: 김원식
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
+author_bio: 성장하는 개발자, 
 author_email: "kwsic@naver.com"
 author_location: Republic Of Korea
 author_website_url: "https://kwszzang.github.io"
-typewrite-text: 깃 허브를 이용한 웹 호스팅/ 김원식 블로그입니다.
+typewrite-text: 
 
 # Experiences
 author_work_experiences:

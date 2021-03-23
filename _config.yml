@@ -11,8 +11,8 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
+#    - text: Gallery
+#      url: /gallery
 #    - text: Shop
 #     url : /shop
     - text: Contact
@@ -32,7 +32,7 @@ author_location: Republic Of Korea
 author_website_url: "https://kwszzang.github.io"
 typewrite-text: Hello ! I'm growing developer, WS
 
-# Experiences
+# 진행 중인 프로젝트
 author_work_experiences:
             - company_name: Google
               company_logo: google.png
@@ -56,17 +56,17 @@ author_education_details:
                 description: Bachelor of Technology
                 visibility: true
 
-# Projects
+# 진행한 프로젝트
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
+              - project_thumbnail: finalprojectmain.png
+                project_title: 파이널 프로젝트
+                project_description: 지역별 분류별로 나에게 딱 맞는 스터디그룹을 서치하고 스터디원들끼리의 자유로운 커뮤니케이션 및 파일 공유 기능 서비스
+                project_url: https://github.com/kwszzang/FinalProject
                 visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: semiprojectmain.png
+                project_title: 세미 프로젝트
+                project_description: 애플 공식 홈페이지를 밴치 마킹하여 나만의 애플 홈페이지를 구현
+                project_url: https://github.com/kwszzang/SemiProject
                 visibility: true
 
 # social links

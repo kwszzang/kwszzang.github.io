@@ -15,8 +15,8 @@ urls:
 #      url: /gallery
 #    - text: Shop
 #     url : /shop
-    - text: Contact
-      url : /contact
+#    - text: Contact
+#      url : /contact
 #    - text: Styleguide
 #      url: /styleguide
 #    - text: Get Started
@@ -26,35 +26,36 @@ urls:
 
 author_logo: myprofile.jpg
 author: 김원식
-author_bio: 성장하는 개발자, 
+author_bio: 27살 늦은 신입 개발자 안녕하세요. 조금 늦게 개발을 시작한 신입 개발자가 되고 싶은 김원식입니다.
 author_email: "kwsic@naver.com"
 author_location: Republic Of Korea
 author_website_url: "https://kwszzang.github.io"
 typewrite-text: Hello ! I'm growing developer, WS
 
-# 진행 중인 프로젝트
+# 교육 내용
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
+            - company_name: 디지털 컨버전스 기반 UI/UX Front 전문 개발자 양성 과정
+              company_logo: bitcamp.png
+              company_url: https://www.bitcamp.co.kr/
+              designation: 비트캠프
+              description: 2021.03수료
               visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: 컴퓨터 과학과
+              company_logo: university.png
+              company_url: https://www.knou.ac.kr/knou/index.do?epTicket=LOG
+              designation: 한국방송통신대학
+              description: 재학중
               visibility: true
 
-# Education
+# 진행중인 프로젝트
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: myprojectmain.jpg
+                college_name: Spring 전자 정부 프레임 & 동적 웹페이지 구현 
+                college_url: https://github.com/kwszzang/MySpringProject
+                college_degree: 앨범, 노래들의 정보를 확인하고, 게시판을 통해 다른 사용자와 소통하는 커뮤니티 사이트
+                description: 개인 프로젝트 진행 중
                 visibility: true
+             
 
 # 진행한 프로젝트
 author_project_details:
@@ -87,13 +88,13 @@ flickr_username: null
 hyvor_talk_website_id: 476
 
 # wakatime username (coding activity)
-wakatime_username: sujaykundu777
+wakatime_username: kwszzang
 
 # mailchimp embedded form url (newsletter):
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: kwsci@naver.com
 
 # syntax highlighter
 markdown: kramdown

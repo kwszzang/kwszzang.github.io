@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tc
+title: etc
 permalink: /blog/categories/etc/
 ---
 
